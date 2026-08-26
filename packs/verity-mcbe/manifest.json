@@ -12,9 +12,9 @@
   "icon": "icon.png",
   "screenshots": ["screenshot1.png"],
   "file": {
-    "download_url": "https://github.com/username/repo/releases/download/release/mod.mcaddon",
-    "sha256": "sha256",
-    "size_bytes": 4213212
+    "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/Verity-26.40.mcaddon",
+    "sha256": "f213938ba4f60bc911280fd8ec3c1a9adab2ddc6a2174ee1eba0d7a0d122eb1a",
+    "size_bytes": 24949667
   },
   "created_at": "2026-08-20T00:00:00Z",
   "updated_at": "2026-08-26T00:00:00Z"
