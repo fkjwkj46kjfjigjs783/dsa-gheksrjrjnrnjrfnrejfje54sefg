@@ -1,0 +1,21 @@
+{
+  "id": "the-bloop",
+  "name": "THE BLOOP",
+  "author": "Uploader",
+  "short_desc": "The Bloop is hunting you in the oceans of your world!",
+  "description": "The Bloop is hunting you in the oceans of your world! Experience:\n- A new DIMENSION INSIDE the Bloop.\n- Advanced mob AI (You will be hunted, haunted, jumpscared and everything in between)\n- Whole NEW ocean villages (and your ocean house) CAN be EATEN\n- Deep ocean trench biomes\n- Deep sea equipment, new enchantments, and a boss fight\nGet this Add-On and scare your friends!",
+  "type": "addon",
+  "category": ["terror", "mobs"],
+  "featured": true,
+  "version": "26.40",
+  "tutorial_url": "https://www.youtube.com/watch?v=Hg-t03cNvKY",
+  "icon": "icon.png",
+  "screenshots": ["screenshot1.png"],
+  "file": {
+    "download_url": "https://github.com/username/repo/releases/download/release/mod.mcaddon",
+    "sha256": "sha256",
+    "size_bytes": 4213212
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
+}
