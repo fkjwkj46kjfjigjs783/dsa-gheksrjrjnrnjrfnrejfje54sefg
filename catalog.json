@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-08-26T18:59:00.427Z",
+  "total": 2,
+  "packages": [
+    {
+      "id": "the-bloop",
+      "name": "THE BLOOP",
+      "author": "Uploader",
+      "short_desc": "The Bloop is hunting you in the oceans of your world!",
+      "type": "addon",
+      "category": [
+        "terror",
+        "mobs"
+      ],
+      "featured": true,
+      "version": "26.40",
+      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/the-bloop/icon.png",
+      "size_bytes": 4213212,
+      "updated_at": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "verity-mcbe",
+      "name": "Verity for Minecraft Bedrock",
+      "author": "Uploader",
+      "short_desc": "Verity™ Is An Add-On That Introduces A Helper Friend called Verity, It knows everything..",
+      "type": "addon",
+      "category": [
+        "terror",
+        "mobs"
+      ],
+      "featured": true,
+      "version": "26.40",
+      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/verity/icon.png",
+      "size_bytes": 4213212,
+      "updated_at": "2026-08-26T00:00:00Z"
+    }
+  ]
+}
