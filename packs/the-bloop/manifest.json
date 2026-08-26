@@ -10,7 +10,7 @@
   "version": "26.40",
   "video_url": "https://www.youtube.com/watch?v=YUC_3gp8f-k",
   "icon": "icon.png",
-  "screenshots": ["screenshot1.png"],
+  "screenshots": ["icon.png"],
   "file": {
     "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/the-bloop.mcaddon",
     "sha256": "32d291092aff28c8c463595323ca4031387eed0581f516c578541bafd967184d",
