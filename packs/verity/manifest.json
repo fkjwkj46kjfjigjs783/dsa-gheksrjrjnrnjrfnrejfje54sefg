@@ -1,5 +1,18 @@
 {
-  "name": "Verity Mod",
-  "version": "1.0.0",
-  "description": "Hello im verity yo personal helper friend"
+  "id": "verity-mcbe",
+  "name": "Verity for Minecraft Bedrock",
+  "author": "Uploader",
+  "short_desc": "Verity™ Is An Add-On That Introduces A Helper Friend called Verity, It knows everything.."
+  "description": "\"I know everything.\"\n\nVerity brings the mysterious entity from the viral Minecraft horror series into Minecraft Bedrock Edition.\n\nThe moment you enter your world, you'll meet a strange yellow companion known as Verity. At first, it seems helpful — offering guidance, conversation, and assistance throughout your adventure.\n\nBut the longer Verity stays in your world, the more questions start to surface.\nWhat is Verity?\n\nWhy does it seem to know things it shouldn't?\n\nAnd what happens when its personality starts to change?\n\n\nSetup Tutorial: https://www.youtube.com/watch?v=Hg-t03cNvKY",
+  "type": "addon",
+  "category": ["terror", "mobs", "featured"],
+  "icon": "icon.png",
+  "screenshots": ["screenshot1.png"],
+  "file": {
+    "download_url": "https://github.com/username/repo/releases/download/release/mod.mcaddon",
+    "sha256": "sha256",
+    "size_bytes": 4213212
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
 }
