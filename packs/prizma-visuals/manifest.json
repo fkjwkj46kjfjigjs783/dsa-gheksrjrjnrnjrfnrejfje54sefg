@@ -4,7 +4,7 @@
   "author": "Uploader",
   "short_desc": "The Vibrant Visuals pack of your dreams!",
   "description": "Prizma Visuals 2.1 is the Vibrant Visuals Pack You’ve Been Dreaming of: Realistic Shading, Custom Animations, Shimmering Water, and more!\n\n- Toggle for Vanilla Textures\n- 3D Blocks\n- Glowing Ores\n- Water Realism\n[!] Prizma Visuals is not a shader.\n[!] You require the Vibrant Visuals to use this add-on.",
-  "type": "addon",
+  "type": "pack",
   "category": ["visuals"],
   "featured": true,
   "version": "26.40",
