@@ -1,0 +1,21 @@
+{
+  "id": "prizma-visuals",
+  "name": "Prizma Visuals",
+  "author": "Uploader",
+  "short_desc": "The Vibrant Visuals pack of your dreams!",
+  "description": "Prizma Visuals 2.1 is the Vibrant Visuals Pack You’ve Been Dreaming of: Realistic Shading, Custom Animations, Shimmering Water, and more!\n\n- Toggle for Vanilla Textures\n- 3D Blocks\n- Glowing Ores\n- Water Realism\n[!] Prizma Visuals is not a shader.\n[!] You require the Vibrant Visuals to use this add-on.",
+  "type": "addon",
+  "category": ["visuals"],
+  "featured": true,
+  "version": "26.40",
+  "video_url": "https://www.youtube.com/watch?v=OZDvWwiRef0",
+  "icon": "icon.png",
+  "screenshots": ["icon.png"],
+  "file": {
+    "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/the-bloop.mcaddon",
+    "sha256": "32d291092aff28c8c463595323ca4031387eed0581f516c578541bafd967184d",
+    "size_bytes": 25131411
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
+}
