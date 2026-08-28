@@ -10,6 +10,8 @@
   "version": "26.40",
   "tutorial_url": "https://www.youtube.com/watch?v=Hg-t03cNvKY",
   "icon": "icon.png",
+  "requires_levi": true,
+  "requires_mb": true,
   "screenshots": ["icon.png"],
   "file": {
     "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/Verity-26.40.mcaddon",
