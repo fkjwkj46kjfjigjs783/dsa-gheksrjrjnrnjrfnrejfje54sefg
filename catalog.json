@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T19:40:54.100Z",
-  "total": 5,
+  "generated_at": "2026-08-28T22:40:29.016Z",
+  "total": 6,
   "packages": [
     {
       "id": "actions-stuff",
@@ -33,6 +33,22 @@
       "version": "26.30",
       "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/all-achivements-map/icon.png",
       "size_bytes": 30060818,
+      "updated_at": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "essentials-marketplace",
+      "name": "ESSENTIALS",
+      "author": "Uploader",
+      "short_desc": "Essential Additions to Minecraft! Say goodbye to doing boring chores!",
+      "type": "addon",
+      "category": [
+        "cheat",
+        "easy"
+      ],
+      "featured": true,
+      "version": "26.40",
+      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/essentials-marketplace/icon.png",
+      "size_bytes": 3609929,
       "updated_at": "2026-08-26T00:00:00Z"
     },
     {
