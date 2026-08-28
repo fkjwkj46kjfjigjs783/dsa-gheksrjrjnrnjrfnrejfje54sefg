@@ -1,0 +1,21 @@
+{
+  "id": "actions-stuff",
+  "name": "Actions & Stuff",
+  "author": "Uploader",
+  "short_desc": "Of the best textures for Minecraft!",
+  "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\n\n- Player Animations (1st & 3rd Person)\n- New & Improved Mob Animations\n- 3D Item Models\n- Custom Armour\n- A Complete & Faithful Texture Overhaul\n- Compatible with Vanilla textures, or your own texture packs\n- Now with 100% more Vibrant Visuals",
+  "type": "pack",
+  "category": ["visuals", "animations", "textures"],
+  "featured": true,
+  "version": "26.40",
+  "video_url": "https://www.youtube.com/watch?v=VDk8niB2Obw",
+  "icon": "icon.png",
+  "screenshots": ["icon.png", "screenshot0.jpg", "screenshot1.jpg", "screenshot2.jpg", "screenshot3.jpg"],
+  "file": {
+    "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/actions_stuff_v1.1.mcpack",
+    "sha256": "58e8bdfec455c510e0a4f79090686d24225c6dbd806a883d694b280c43748cfb",
+    "size_bytes": 51356387
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
+}
