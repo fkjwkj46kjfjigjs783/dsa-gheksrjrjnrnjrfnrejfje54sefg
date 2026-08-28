@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:02:29.176Z",
+  "generated_at": "2026-08-28T19:05:03.523Z",
   "total": 4,
   "packages": [
     {
@@ -7,14 +7,14 @@
       "name": "All Achievements Map",
       "author": "Uploader",
       "short_desc": "This map is perfect for completing all Achievements in Minecraft Bedrock Edition.",
-      "type": "map",
+      "type": "world",
       "category": [
         "achievements",
         "maps"
       ],
       "featured": false,
       "version": "26.30",
-      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/all-achievements-map/icon.png",
+      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/all-achivements-map/icon.png",
       "size_bytes": 30060818,
       "updated_at": "2026-08-26T00:00:00Z"
     },
