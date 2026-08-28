@@ -1,0 +1,21 @@
+{
+  "id": "all-achivements-map",
+  "name": "All Achievements Map",
+  "author": "Uploader",
+  "short_desc": "This map is perfect for completing all Achievements in Minecraft Bedrock Edition.",
+  "description": "This map is perfect for completing all 133 Achievements in Minecraft Bedrock Edition 26.30. Each achievement in the map is designed to be completed very quickly and easily. In fact, each player is able to complete most of the achievements in less than 30 minutes!\nThis map works for both PC and mobile versions and also for Playstation, Xbox and Switch players, and you can even play Multiplayer with your friends!",
+  "type": "map",
+  "category": ["achievements", "maps"],
+  "featured": false,
+  "version": "26.30",
+  "video_url": "https://www.youtube.com/watch?v=7boo_lS427o",
+  "icon": "icon.png",
+  "screenshots": ["icon.png", "screenshot0.png"],
+  "file": {
+    "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/all_achievements_unlock_map.mcworld",
+    "sha256": "d1ee132d7d68358e7864159ca62bf41841b7c02505adfcc7e53f7298ce1989a6",
+    "size_bytes": 30060818
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
+}
