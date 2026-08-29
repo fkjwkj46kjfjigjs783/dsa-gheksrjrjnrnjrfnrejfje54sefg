@@ -1,2 +1,7 @@
-# Dedicated Storage Repository for MCBE-Repo
-Hey there! MCBE-Repo is a ad-free, easy to use mod repository for Minecraft Bedrock. This proyect is still under process, and NO money is planned to make from this proyect/repository. You will be able to download the official APK when its released on its official website.
+# MCPE-Repo Testers Repository
+This repository contains **example mods for MCPE-Repo**. Made for application testers on their primitive versions of the app. ***I do not condone or promote piracy. I am removing mods or the repository when i get explicitly requested to remove them.***
+
+Install at
+```
+mcpe-repo://addrepository?link=/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main
+```
