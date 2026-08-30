@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:51:48.420Z",
-  "total": 6,
+  "generated_at": "2026-08-30T16:51:17.467Z",
+  "total": 7,
   "packages": [
     {
       "id": "actions-stuff",
@@ -64,6 +64,21 @@
       "version": "26.40",
       "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/prizma-visuals/icon.png",
       "size_bytes": 51356387,
+      "updated_at": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "saturated-mcbe",
+      "name": "Saturated",
+      "author": "Uploader",
+      "short_desc": "Saturated is a resourcepack that makes the game look more vibrant",
+      "type": "pack",
+      "category": [
+        "saturated"
+      ],
+      "featured": false,
+      "version": "1.21.94",
+      "icon": "https://cdn.jsdelivr.net/gh/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg@main/packs/saturated-mcbe/screenshot0.png",
+      "size_bytes": 40492115,
       "updated_at": "2026-08-26T00:00:00Z"
     },
     {
