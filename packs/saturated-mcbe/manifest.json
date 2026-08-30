@@ -1,0 +1,21 @@
+{
+  "id": "saturated-mcbe",
+  "name": "Saturated",
+  "author": "Uploader",
+  "short_desc": "Saturated is a resourcepack that makes the game look more vibrant",
+  "description": "Saturated is a Resource Pack for Minecraft Bedrock Edition that makes the game look slightly more vibrant!\n\nThis pack is also available for Java Edition.\n\nAll types of textures are more vibrant including:\n\n    - GUIs\n    - Items\n    - Blocks\n    - Entities",
+  "type": "pack",
+  "category": ["saturated"],
+  "featured": false,
+  "version": "1.21.94",
+  "icon": "screenshot0.png",
+  "square_icon": "favicon.png"
+  "screenshots": ["screenshot0.png", "screenshot1.png", "screenshot2.png", "screenshot3.png"],
+  "file": {
+    "download_url": "https://github.com/fkjwkj46kjfjigjs783/dsa-gheksrjrjnrnjrfnrejfje54sefg/releases/download/modpack/SaturatedBedrock.mcpack",
+    "sha256": "77fd2e1696f523e70fcf748df54c9643901b38feab2377f5215c59f6fb80455c",
+    "size_bytes": 40492115
+  },
+  "created_at": "2026-08-20T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z"
+}
